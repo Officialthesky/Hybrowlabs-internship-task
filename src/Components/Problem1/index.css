@@ -1,0 +1,21 @@
+.problem1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.problem1 input {
+  padding: 10px 15px;
+  margin-top: 10px;
+}
+.stringOutput {
+  margin: 0px 30px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
