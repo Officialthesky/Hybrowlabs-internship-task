@@ -20,7 +20,8 @@ export default function Problem1() {
 
   return (
     <div className="problem1">
-      <h1>Problem 1</h1>
+      <h1>Problem 1 </h1>
+      <p>Get occurance of every character in string</p>
       <input placeholder="Enter any string" onChange={getOccuranceOfChar} />
       <br />
       <div>

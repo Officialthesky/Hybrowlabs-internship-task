@@ -40,6 +40,8 @@ export default function Problem2() {
   return (
     <div className="problem2">
       <h1>Problem 2</h1>
+      <p>Add user record by calling API and delete user record</p>
+
       <div className="AddUserRecord">
         <button onClick={fetchUserRecord}>Add record</button>
       </div>
